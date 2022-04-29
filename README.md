@@ -1,0 +1,1 @@
+My notebooks used for the Kaggle competition Happywhale - Whale and Dolphin Identification in 2022.
